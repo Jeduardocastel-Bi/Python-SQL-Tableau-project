@@ -48,7 +48,7 @@ You have been tasked with analyzing an A/B test conducted by an international on
 
 ---
 
-🔗 **Link to the Project**:
+🔗 **Link to the Project**: https://github.com/Jeduardocastel/11.-Final-project-bootcamp/blob/main/test_a_b.ipynb
 
 __________________________________________________________________
 
@@ -91,7 +91,7 @@ You have been provided with a database from one such service. It contains data a
 
 ---
 
-🔗 **Link to the Project**:
+🔗 **Link to the Project**: https://github.com/Jeduardocastel/11.-Final-project-bootcamp/blob/main/SQL_final.ipynb
 
 _______________________________________________________________________
 
@@ -147,4 +147,5 @@ The datasets contain information on the use of the CallMeMaybe service. Its clie
 
 ---
 
-🔗 **Link to the Project**: 
+🔗 **Link to the Project**:  https://github.com/Jeduardocastel/11.-Final-project-bootcamp/blob/main/project_14%20final.ipynb
+
