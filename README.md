@@ -3,6 +3,16 @@
 ## 📖 Project Description  
 You have been tasked with analyzing an A/B test conducted by an international online store. The previous analysts started the experiment but abandoned it mid-project (to start a watermelon farm in Brazil). They left behind only the technical specifications and the expected test outcomes.  
 
+## 📌 Project Objectives  
+- Analyze the results of an A/B test conducted by an international online store.  
+- Assess the impact of a new recommendation system on user conversion rates.  
+- Determine whether the new system improves conversions by at least **10%** at each stage of the sales funnel:  
+  1. **Product Page Views** (`product_page`).  
+  2. **Adding Items to Cart** (`product_card`).  
+  3. **Purchases** (`purchase`).  
+- Validate the results through data analysis and statistical testing.
+
+  
 ### Technical Description:  
 - **Test Name**: `recommender_system_test`  
 - **Groups**: A (control), B (new payment funnel)  
@@ -20,6 +30,9 @@ You have been tasked with analyzing an A/B test conducted by an international on
 - **Target Participants**: 6,000  
 
 ---
+🔍 **Test Groups:**  
+- **Group A (Control):** Users with the standard recommendation system.  
+- **Group B (Treatment):** Users with the new recommendation system.  
 
 ## 🛠️ Key Features  
 1. **Exploratory Data Analysis**: Initial insights and patterns in the dataset.  
@@ -47,6 +60,14 @@ You have been tasked with analyzing an A/B test conducted by an international on
 - Data Visualization  
 
 ---
+## 📊 Project Results  
+1. **Data Exploration and Cleaning:** Initial insights were gathered, inconsistencies were corrected, and outliers were handled.  
+2. **Conversion Funnel Analysis:** User conversion rates were examined at each stage of the sales funnel.  
+3. **Sample Distribution Analysis:** The balance between control and treatment groups was assessed to ensure test validity.  
+4. **A/B Test and Statistical Analysis:**  
+   - **Hypothesis testing** was performed using statistical tools like **SciPy and Stats** to evaluate whether differences between groups were significant.  
+   - It was verified whether the **treatment group achieved at least a 10% increase** at each stage of the funnel.
+   - 
 
 🔗 **Link to the Project**: https://github.com/Jeduardocastel/11.-Final-project-bootcamp/blob/main/test_a_b.ipynb
 
